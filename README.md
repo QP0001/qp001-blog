@@ -1,4 +1,4 @@
-# qp001-infra
+# おいらのBlog構成
 
 WordPress ブログ用インフラ（EC2 + RDS + EFS）を Terraform で管理するリポジトリ
 
